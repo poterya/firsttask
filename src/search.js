@@ -25,41 +25,41 @@ export const dataB= [
         area: "Красота и здоровье"
     },
     {   
-        id: '5',
+        id: '6',
         name: "Baraka",
         area: "Ювелирные изделия, часы"
     },
     {
-        id: '6',
+        id: '7',
         name: "BML",
         area: "Для мужчин"
     },
     {   
-        id: '7',
+        id: '8',
         name: "Bosco Outlet",
         area: "Для детей, Для женщин, Для мужчин, Обувь, аксессуары"
     },
     {
-        id: '8',
+        id: '9',
         name: "Bosco Outlet Bambino",
         area: "Для женщин, Для мужчин"
     },
     {   
-        id: '9',
+        id: '10',
         name: "White Rabbit Lab",
         area: "Кафе и рестораны"
     },
     {   
-        id: '10',
+        id: '11',
         name: "Zodiac",
         area: "Кафе и рестораны"
     },
     {
-        id: '11',
+        id: '12',
         name: "Аптека 36,6 ",
         area: "Красота и здоровье"
     },
-    {   id: '12',
+    {   id: '13',
         name: "Банкомат Tinkoff",
         area: "Банкоматы"
     }
